@@ -1,0 +1,211 @@
+project_id,task_id,task_name,planned_days,actual_days,response_delay,rework_count,dependency_count,team_workload,task_status
+P001,T001,Requirement Collection,2,1,2,1,1,48,In Progress
+P001,T002,API Integration,2,6,4,0,3,42,Delayed
+P001,T003,Data Migration,2,1,1,1,0,75,In Progress
+P001,T004,Configuration,3,7,4,3,1,68,Delayed
+P001,T005,Testing,6,7,0,1,3,61,In Progress
+P001,T006,Customer Approval,4,4,1,2,0,45,Completed
+P001,T007,Deployment,5,4,2,2,2,91,In Progress
+P002,T001,Requirement Collection,2,6,3,0,3,45,Delayed
+P002,T002,API Integration,6,7,4,2,1,85,In Progress
+P002,T003,Data Migration,2,1,1,2,0,94,In Progress
+P002,T004,Configuration,3,2,3,2,3,80,In Progress
+P002,T005,Testing,4,4,2,2,1,82,Completed
+P002,T006,Customer Approval,4,8,0,1,1,50,Delayed
+P002,T007,Deployment,5,7,2,1,2,93,Delayed
+P003,T001,Requirement Collection,2,2,0,2,3,57,Completed
+P003,T002,API Integration,2,2,4,2,1,81,Completed
+P003,T003,Data Migration,5,7,3,1,2,48,Delayed
+P003,T004,Configuration,3,7,4,2,3,97,Delayed
+P003,T005,Testing,6,8,2,1,1,72,Delayed
+P003,T006,Customer Approval,5,4,0,0,1,80,In Progress
+P003,T007,Deployment,3,7,3,0,3,64,Delayed
+P004,T001,Requirement Collection,6,8,4,2,0,83,Delayed
+P004,T002,API Integration,2,6,4,2,2,47,Delayed
+P004,T003,Data Migration,4,6,1,3,0,86,Delayed
+P004,T004,Configuration,4,7,1,0,2,93,Delayed
+P004,T005,Testing,6,9,1,1,2,88,Delayed
+P004,T006,Customer Approval,3,6,4,0,2,71,Delayed
+P004,T007,Deployment,2,1,2,2,1,43,In Progress
+P005,T001,Requirement Collection,3,6,0,0,3,92,Delayed
+P005,T002,API Integration,2,5,1,1,3,100,Delayed
+P005,T003,Data Migration,6,6,2,3,1,99,Completed
+P005,T004,Configuration,6,10,1,2,3,82,Delayed
+P005,T005,Testing,4,6,4,3,0,55,Delayed
+P005,T006,Customer Approval,3,2,2,0,1,77,In Progress
+P005,T007,Deployment,3,2,0,0,1,44,In Progress
+P006,T001,Requirement Collection,2,3,0,1,2,82,In Progress
+P006,T002,API Integration,5,5,4,1,3,55,Completed
+P006,T003,Data Migration,5,7,1,0,0,82,Delayed
+P006,T004,Configuration,5,6,3,3,3,95,In Progress
+P006,T005,Testing,2,6,0,0,3,86,Delayed
+P006,T006,Customer Approval,4,3,1,1,1,74,In Progress
+P006,T007,Deployment,5,5,3,1,2,69,Completed
+P007,T001,Requirement Collection,3,2,3,0,0,81,In Progress
+P007,T002,API Integration,6,5,0,1,1,66,In Progress
+P007,T003,Data Migration,5,7,1,3,0,50,Delayed
+P007,T004,Configuration,5,4,3,2,3,58,In Progress
+P007,T005,Testing,5,9,4,3,1,52,Delayed
+P007,T006,Customer Approval,4,4,0,0,2,43,Completed
+P007,T007,Deployment,2,5,3,1,0,72,Delayed
+P008,T001,Requirement Collection,2,2,0,0,1,65,Completed
+P008,T002,API Integration,2,5,1,0,0,66,Delayed
+P008,T003,Data Migration,6,9,4,2,2,53,Delayed
+P008,T004,Configuration,4,4,2,3,1,82,Completed
+P008,T005,Testing,4,6,2,0,0,69,Delayed
+P008,T006,Customer Approval,6,9,0,0,1,72,Delayed
+P008,T007,Deployment,4,4,2,0,1,63,Completed
+P009,T001,Requirement Collection,4,4,3,2,0,82,Completed
+P009,T002,API Integration,6,7,0,1,2,47,In Progress
+P009,T003,Data Migration,2,6,4,1,2,58,Delayed
+P009,T004,Configuration,6,6,2,1,2,72,Completed
+P009,T005,Testing,5,6,0,0,3,93,In Progress
+P009,T006,Customer Approval,4,3,0,2,1,80,In Progress
+P009,T007,Deployment,4,4,3,3,0,47,Completed
+P010,T001,Requirement Collection,2,6,1,0,2,77,Delayed
+P010,T002,API Integration,6,6,3,1,0,59,Completed
+P010,T003,Data Migration,4,3,2,1,1,82,In Progress
+P010,T004,Configuration,2,3,4,3,1,99,In Progress
+P010,T005,Testing,3,3,1,3,0,51,Completed
+P010,T006,Customer Approval,4,6,1,2,1,90,Delayed
+P010,T007,Deployment,2,4,0,3,1,52,Delayed
+P011,T001,Requirement Collection,5,6,2,1,1,41,In Progress
+P011,T002,API Integration,3,5,2,2,0,89,Delayed
+P011,T003,Data Migration,4,5,4,3,2,100,In Progress
+P011,T004,Configuration,2,1,2,1,2,42,In Progress
+P011,T005,Testing,2,5,3,2,2,67,Delayed
+P011,T006,Customer Approval,6,9,0,3,1,56,Delayed
+P011,T007,Deployment,2,6,3,0,1,63,Delayed
+P012,T001,Requirement Collection,5,4,2,2,0,86,In Progress
+P012,T002,API Integration,4,7,2,3,2,65,Delayed
+P012,T003,Data Migration,4,7,1,1,3,82,Delayed
+P012,T004,Configuration,5,9,1,2,3,75,Delayed
+P012,T005,Testing,2,3,2,1,3,90,In Progress
+P012,T006,Customer Approval,6,9,2,3,3,68,Delayed
+P012,T007,Deployment,3,6,3,1,0,58,Delayed
+P013,T001,Requirement Collection,6,10,4,2,0,92,Delayed
+P013,T002,API Integration,3,7,2,1,1,49,Delayed
+P013,T003,Data Migration,2,1,1,3,0,69,In Progress
+P013,T004,Configuration,5,9,4,1,3,71,Delayed
+P013,T005,Testing,5,5,1,0,0,89,Completed
+P013,T006,Customer Approval,5,5,1,3,0,75,Completed
+P013,T007,Deployment,3,2,3,1,3,82,In Progress
+P014,T001,Requirement Collection,6,9,4,2,3,79,Delayed
+P014,T002,API Integration,6,8,4,3,1,87,Delayed
+P014,T003,Data Migration,5,7,2,1,2,89,Delayed
+P014,T004,Configuration,6,8,1,2,3,44,Delayed
+P014,T005,Testing,4,4,2,2,2,97,Completed
+P014,T006,Customer Approval,6,5,1,1,1,64,In Progress
+P014,T007,Deployment,3,7,1,0,3,66,Delayed
+P015,T001,Requirement Collection,4,7,3,3,0,53,Delayed
+P015,T002,API Integration,5,7,4,0,3,70,Delayed
+P015,T003,Data Migration,2,3,2,3,3,74,In Progress
+P015,T004,Configuration,6,9,1,3,1,57,Delayed
+P015,T005,Testing,5,7,0,3,2,82,Delayed
+P015,T006,Customer Approval,5,9,1,3,1,79,Delayed
+P015,T007,Deployment,6,5,3,0,0,81,In Progress
+P016,T001,Requirement Collection,5,5,3,1,0,56,Completed
+P016,T002,API Integration,5,6,1,3,2,61,In Progress
+P016,T003,Data Migration,5,6,3,2,0,70,In Progress
+P016,T004,Configuration,2,6,4,0,2,54,Delayed
+P016,T005,Testing,2,6,0,0,1,52,Delayed
+P016,T006,Customer Approval,2,5,1,1,1,70,Delayed
+P016,T007,Deployment,2,5,1,3,2,89,Delayed
+P017,T001,Requirement Collection,4,4,4,0,1,59,Completed
+P017,T002,API Integration,2,5,0,2,3,65,Delayed
+P017,T003,Data Migration,3,2,4,1,0,84,In Progress
+P017,T004,Configuration,4,8,4,0,0,62,Delayed
+P017,T005,Testing,6,8,2,0,2,40,Delayed
+P017,T006,Customer Approval,5,7,0,3,2,80,Delayed
+P017,T007,Deployment,5,9,1,3,1,86,Delayed
+P018,T001,Requirement Collection,6,10,2,3,3,67,Delayed
+P018,T002,API Integration,6,7,2,1,0,57,In Progress
+P018,T003,Data Migration,5,5,3,3,2,41,Completed
+P018,T004,Configuration,5,6,1,3,1,62,In Progress
+P018,T005,Testing,4,5,2,2,0,73,In Progress
+P018,T006,Customer Approval,3,2,1,3,3,75,In Progress
+P018,T007,Deployment,3,7,3,3,3,90,Delayed
+P019,T001,Requirement Collection,2,1,2,1,3,84,In Progress
+P019,T002,API Integration,3,4,4,2,3,75,In Progress
+P019,T003,Data Migration,6,7,3,2,2,84,In Progress
+P019,T004,Configuration,5,6,2,2,1,47,In Progress
+P019,T005,Testing,3,4,0,1,1,53,In Progress
+P019,T006,Customer Approval,5,6,4,2,0,93,In Progress
+P019,T007,Deployment,3,4,1,2,1,59,In Progress
+P020,T001,Requirement Collection,2,6,4,1,2,42,Delayed
+P020,T002,API Integration,2,5,2,1,3,46,Delayed
+P020,T003,Data Migration,2,5,2,3,3,68,Delayed
+P020,T004,Configuration,4,4,0,2,3,47,Completed
+P020,T005,Testing,2,4,3,0,0,49,Delayed
+P020,T006,Customer Approval,3,6,2,0,1,47,Delayed
+P020,T007,Deployment,6,8,4,1,3,68,Delayed
+P021,T001,Requirement Collection,5,6,4,3,2,76,In Progress
+P021,T002,API Integration,6,5,4,0,1,80,In Progress
+P021,T003,Data Migration,3,4,0,1,1,51,In Progress
+P021,T004,Configuration,6,5,1,0,3,68,In Progress
+P021,T005,Testing,6,8,2,0,1,58,Delayed
+P021,T006,Customer Approval,4,8,3,0,1,99,Delayed
+P021,T007,Deployment,4,8,4,1,3,47,Delayed
+P022,T001,Requirement Collection,6,6,1,2,1,44,Completed
+P022,T002,API Integration,2,2,2,2,3,47,Completed
+P022,T003,Data Migration,5,9,2,3,2,72,Delayed
+P022,T004,Configuration,6,8,3,0,0,96,Delayed
+P022,T005,Testing,5,9,2,2,0,45,Delayed
+P022,T006,Customer Approval,3,7,4,0,2,76,Delayed
+P022,T007,Deployment,2,2,3,3,2,51,Completed
+P023,T001,Requirement Collection,6,8,3,0,3,62,Delayed
+P023,T002,API Integration,5,6,2,0,1,61,In Progress
+P023,T003,Data Migration,5,9,3,2,3,92,Delayed
+P023,T004,Configuration,6,5,3,0,2,56,In Progress
+P023,T005,Testing,4,3,3,0,3,66,In Progress
+P023,T006,Customer Approval,2,2,4,2,3,80,Completed
+P023,T007,Deployment,5,4,1,2,1,99,In Progress
+P024,T001,Requirement Collection,4,6,3,0,0,80,Delayed
+P024,T002,API Integration,6,6,1,2,0,75,Completed
+P024,T003,Data Migration,5,4,1,0,3,100,In Progress
+P024,T004,Configuration,2,6,1,3,2,72,Delayed
+P024,T005,Testing,4,6,3,3,1,69,Delayed
+P024,T006,Customer Approval,6,6,3,1,1,95,Completed
+P024,T007,Deployment,2,3,3,2,2,92,In Progress
+P025,T001,Requirement Collection,2,3,2,3,1,68,In Progress
+P025,T002,API Integration,6,8,2,2,3,69,Delayed
+P025,T003,Data Migration,4,4,1,3,1,94,Completed
+P025,T004,Configuration,5,4,2,3,3,64,In Progress
+P025,T005,Testing,3,5,0,1,2,95,Delayed
+P025,T006,Customer Approval,2,4,0,3,0,86,Delayed
+P025,T007,Deployment,3,5,1,0,3,90,Delayed
+P026,T001,Requirement Collection,4,5,4,3,0,94,In Progress
+P026,T002,API Integration,4,8,4,3,2,80,Delayed
+P026,T003,Data Migration,5,8,0,0,1,80,Delayed
+P026,T004,Configuration,4,4,0,3,0,88,Completed
+P026,T005,Testing,2,4,1,2,0,42,Delayed
+P026,T006,Customer Approval,4,3,2,2,2,67,In Progress
+P026,T007,Deployment,3,3,4,3,1,50,Completed
+P027,T001,Requirement Collection,3,2,4,3,1,71,In Progress
+P027,T002,API Integration,6,6,1,3,2,69,Completed
+P027,T003,Data Migration,4,8,0,3,2,83,Delayed
+P027,T004,Configuration,6,6,0,3,2,77,Completed
+P027,T005,Testing,4,8,3,2,3,94,Delayed
+P027,T006,Customer Approval,4,4,3,3,0,55,Completed
+P027,T007,Deployment,5,8,2,2,2,41,Delayed
+P028,T001,Requirement Collection,5,6,0,0,3,93,In Progress
+P028,T002,API Integration,4,4,4,2,1,80,Completed
+P028,T003,Data Migration,3,6,2,1,0,97,Delayed
+P028,T004,Configuration,2,3,3,0,2,86,In Progress
+P028,T005,Testing,3,2,2,2,3,51,In Progress
+P028,T006,Customer Approval,3,3,4,2,2,93,Completed
+P028,T007,Deployment,3,4,3,2,2,91,In Progress
+P029,T001,Requirement Collection,2,4,0,1,1,95,Delayed
+P029,T002,API Integration,5,8,2,0,3,40,Delayed
+P029,T003,Data Migration,4,7,0,3,2,83,Delayed
+P029,T004,Configuration,4,7,3,2,0,83,Delayed
+P029,T005,Testing,3,5,0,2,1,81,Delayed
+P029,T006,Customer Approval,2,6,3,2,3,47,Delayed
+P029,T007,Deployment,3,2,0,2,3,47,In Progress
+P030,T001,Requirement Collection,2,2,4,1,3,69,Completed
+P030,T002,API Integration,4,8,4,3,1,96,Delayed
+P030,T003,Data Migration,5,9,0,3,3,100,Delayed
+P030,T004,Configuration,4,3,2,1,3,68,In Progress
+P030,T005,Testing,3,4,0,2,2,43,In Progress
+P030,T006,Customer Approval,5,6,1,0,3,45,In Progress
+P030,T007,Deployment,3,7,4,0,0,90,Delayed

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+# Node
+node_modules/
+frontend/dist/
+# Editor/OS
+.vscode/
+.DS_Store
+Thumbs.db
+# Runtime data can be committed if desired; active uploaded dataset stays local by default
